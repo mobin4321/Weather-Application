@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  color: white;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+#main {
+  background-color: rgba(0, 0, 0, 0.9);
+  min-height: 100vh;
+}
